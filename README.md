@@ -9,7 +9,8 @@ Assignment 4 de Sistemas web.
 ## Acciones posibles (usando postman):
 ### Obtener el un Auth Token
 Con la opción POST, entrar a http://localhost:8000/api/v1/token-auth/ con una de las siguientes combinaciones Username/Password en el body:
-```Opcion 1:
+```
+Opcion 1:
 Username: Diego
 Password: diego_password
 Opcion 2:
